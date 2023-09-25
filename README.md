@@ -8,9 +8,17 @@ Roblox Account Creator is a Python program that automates the process of creatin
 ```
 git clone https://github.com/NSTIOM/Roblox-Account-Creator.git
 ```
+
+
 -`cd Roblox-Account-Creator`
+
+
 -`pip install -r requirements.txt`
+
+
 -`python main.py`
+
+
 2. Enter the basic information:
 - **Enter the number of iterations:** Specify the number of Roblox accounts you want to create.
 - **Starting name:** Enter the prefix you want your Roblox accounts to start with.
