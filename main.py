@@ -123,7 +123,7 @@ def Gender2(driver):
     Gender2.click()
 
 def show_help():
-    help_text = "Channel 1: Enter the required quantity.(If you want to generate random values without input)\nChannel 2: Enter the starting name prefix. For example, NSTIOMHUB_ #output NSTIOMHUB_34DFBFR\nChannel 3: Enter the number of characters for the username. For example, 17 #output NSTIOMHUB_34DFBFR\n\n\nช่องที่ 1 ใส่จำนวนที่ต้องให้สร้าง(ถ้าต้องการสุ่มไม่ต้องพิมไร)\nช่องที่ 2 ใส่ชื่อที่ต้องให้ชึ้นต้น ตัวอย่าง NSTIOMHUB_ #output NSTIOMHUB_34DFBFR\nช่องที่ 3 คือจำนวนอักษรว่าจะให้ Username มีกี่ตัวอักษร ตัวอย่าง 17 #output NSTIOMHUB_34DFBFR"
+    help_text = "Channel 1: Enter the required quantity.\nChannel 2: Enter the starting name prefix. For example, NSTIOMHUB_ #output NSTIOMHUB_34DFBFR(If you want to generate random values without input)\nChannel 3: Enter the number of characters for the username. For example, 17 #output NSTIOMHUB_34DFBFR\n\n\nช่องที่ 1 ใส่จำนวนที่ต้องให้สร้าง\nช่องที่ 2 ใส่ชื่อที่ต้องให้ชึ้นต้น ตัวอย่าง NSTIOMHUB_ #output NSTIOMHUB_34DFBFR(ถ้าต้องการสุ่มไม่ต้องพิมไร)\nช่องที่ 3 คือจำนวนอักษรว่าจะให้ Username มีกี่ตัวอักษร ตัวอย่าง 17 #output NSTIOMHUB_34DFBFR"
     help_window = tk.Toplevel(root)
     help_window.title("Help")
     help_label = tk.Label(help_window, text=help_text, justify="center")
