@@ -5,8 +5,10 @@ Roblox Account Creator is a Python program that automates the process of creatin
 ## 0.0.1 (Bata Test)
 
 ## How to Use
+0. [Web driver](https://chromedriver.chromium.org/downloads)
 
-1. Open the Roblox Account Creator program using the following command:
+  
+2. Open the Roblox Account Creator program using the following command:
 ```
 git clone https://github.com/NSTIOM/Roblox-Account-Creator.git
 ```
