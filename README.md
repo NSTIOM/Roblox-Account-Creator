@@ -18,13 +18,13 @@ git clone https://github.com/NSTIOM/Roblox-Account-Creator.git
 ```
 
 
--`cd Roblox-Account-Creator`
+- `cd Roblox-Account-Creator`
 
 
--`pip install -r requirements.txt`
+- `pip install -r requirements.txt`
 
 
--`python main.py`
+- `python main.py`
 
 
 2. Enter the basic information:
