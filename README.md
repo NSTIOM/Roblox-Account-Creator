@@ -4,9 +4,6 @@ Roblox Account Creator is a Python program that automates the process of creatin
 ## Version
 ## 0.0.1 (Bata Test)
 
-## If you have any doubts or encounter any problems.
-- [click](https://discord.gg/HQRkR6QPw4)
-
 
 ## How to Use
 0. [Download Web driver](https://chromedriver.chromium.org/downloads)
