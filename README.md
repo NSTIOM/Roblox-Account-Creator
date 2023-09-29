@@ -2,7 +2,7 @@
 
 Roblox Account Creator is a Python program that automates the process of creating Roblox accounts using Selenium. This program can generate multiple Roblox accounts with randomized attributes for testing or other purposes that require new Roblox accounts.
 ## Version
-## 0.0.1 (Bata Test)
+## 0.0.1 (Beta Test)
 
 
 ## How to Use
@@ -62,4 +62,4 @@ This program is for educational and testing purposes only. Use it responsibly an
 
 - DISCORD NSTIOM COMMUNITY
 
-Thank you for using Roblox Account Creator, and enjoy using it!
+Thank you for using Roblox Account Creator, enjoy using it!
